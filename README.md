@@ -68,3 +68,5 @@ Timer: Your play time is tracked and displayed at the top.
 Contributions, bug reports, and feature suggestions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss your ideas.
 
 #### Enjoy Game - By Bocaletto Luca
+
+#### License: GPLv3
